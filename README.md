@@ -11,12 +11,12 @@
       {
         for (j=1;j<s;j++)  // Loop to print spaces in a row
           	{
-		  		printf(" ");
-			}
+			printf(" ");
+		}
         s--;
         for (j=1;j<=2*i-1;j++) // Loop to print stars in a row
          	{
-		  		printf("*");
+		  	printf("*");
     		}
 	    printf("\n");
       }
