@@ -17,7 +17,7 @@
         for (j=1;j<=2*i-1;j++) // Loop to print stars in a row
          	{
 		  	printf("*");
-    		}
+    	}
 	 	printf("\n");
       }
       return 0;
